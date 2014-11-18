@@ -119,6 +119,6 @@ Chapter 8. Mining of Massive Datasets. Jure Leskovec, Anand Rajaraman, Jeff Ullm
 * Week 12: No lecture (Holiday)
   *  Lab: Working on the project. Help with Naive Bayes https://github.com/ucb-stat-157/fall-2014-public/tree/master/naive_bayes
 
-* Week 13-15: Data structures and databases. An introduction to databases using SQLite. Students make 5 minute presentations. Code review and reproducibility review. Ipython, pandas and numpy. Mini lectures on statistical and computational tools needed to complete the project.
+* Week 13-15: Data structures and databases. An introduction to databases using SQLite. Students make 5 minute presentations. Code review and reproducibility review. (?Ipython, pandas and numpy). Mini lectures on statistical and computational tools needed to complete the project.
   * HW 11: Queries using SQLite and the chinook database (http://chinookdatabase.codeplex.com/downloads/get/557773/). 
 
