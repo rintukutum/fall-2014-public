@@ -1,0 +1,19 @@
+How much in total was InvoiceId 404? (Answer this question with the Invoice table)
+	
+How much in total was InvoiceId 404? (Answer this question with only the InvoiceLine table)
+
+How much has John Gordon spent in total?
+
+How many employees and customers have the same first name?
+
+What are the names of the songs that John Gordon has purchased? How many of them are there?
+
+What are the names (firstname, lastname) of the 5 top spenders (customers who have spent the most money) and how much have they each spent?
+
+How many audio tracks have a length longer than the average length of all the audio tracks?
+
+List the name of the artists with more than 5 tracks
+
+Find the name of playlist(s) which contains most tracks by artist “AC/DC”
+
+Which artists did not make any albums at all? Include their names in your answer.
