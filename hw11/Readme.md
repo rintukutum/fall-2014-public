@@ -21,3 +21,7 @@ Questions:
 
 There are 10 questions each carrying one mark. You need to write down the SQL query and the output you get in your answer.
 There will be no partial marks. Both the query and the answer need to be correct.
+
+The database can be downloaded from:
+
+http://chinookdatabase.codeplex.com/downloads/get/557773/
