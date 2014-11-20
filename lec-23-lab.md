@@ -1,7 +1,10 @@
 # Lab for lecture 23 -- SQL
 
 * Donwload the chinook database from here <br>
-http://chinookdatabase.codeplex.com/downloads/get/557773/
+  http://chinookdatabase.codeplex.com/downloads/get/557773/
+
+* The schema is here <br>
+  
 
 * From the terminal
 ```
@@ -19,9 +22,11 @@ Write SQL queries to answer the following: <br>
 9. Which playlist(s) contain the largest number of pop tracks. <br>
 10. Which artist(s) has the most tracks classified as Jazz. <br>
 11. Find the name of the German customer(s) who has paid the most in total and is not associated with a company. <br>
-12. List the name and age of the employees who support more than 5 customers (Hint: You can use CURDATE() function to get the current date, and use a function from last assignment to calculate ages). <br>
-13. Find the manger who manages most employees but also being managed by someone else (Note: there are employees who do not have managers, i.e., there may be NULL values in ReportsTo column) <br>
+12. List the name and age of the employees who support more than 5 customers (Hint: You can use DATE() function to get the current date, and use a function from last assignment to calculate ages). <br>
+13. Find the manager who manages most employees but also being managed by someone else (Note: there are employees who do not have managers, i.e., there may be NULL values in ReportsTo column) <br>
 14. List the name of the artists with more than 5 tracks <br>
 15. Find the playlist(s) which contains most tracks by artist “AC/DC” <br>
+16. List the genre of tracks which is contained in the most playlist <br>
+17. Find the name of the German customer(s) who has paid the most in total without company name <br>
 
 Some of the questions come from here https://cs.uwaterloo.ca/~ohartig/CS338/assignments.html.
