@@ -4,7 +4,7 @@
   http://chinookdatabase.codeplex.com/downloads/get/557773/
 
 * The schema is here <br>
-  
+	http://chinookdatabase.codeplex.com/wikipage?title=Chinook_Schema&referringTitle=Home  
 
 * From the terminal
 ```
