@@ -7,7 +7,7 @@ http://chinookdatabase.codeplex.com/downloads/get/557773/
 ```
  sqlite3 Chinook_Sqlite.sqlite
 ```
-Write SQL queries to answer the following:
+Write SQL queries to answer the following: <br>
 1. Which artists did not make any albums at all? Include their names in your answer. <br>
 2. Which video track is the longest? <br>
 3. Find the names of customers who live in the same city as the top employee (The one not managed by anyone). <br>
