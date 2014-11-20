@@ -23,3 +23,5 @@ Write SQL queries to answer the following: <br>
 13. Find the manger who manages most employees but also being managed by someone else (Note: there are employees who do not have managers, i.e., there may be NULL values in ReportsTo column) <br>
 14. List the name of the artists with more than 5 tracks <br>
 15. Find the playlist(s) which contains most tracks by artist “AC/DC” <br>
+
+Some of the questions come from here https://cs.uwaterloo.ca/~ohartig/CS338/assignments.html.
