@@ -125,7 +125,7 @@ Chapter 8. Mining of Massive Datasets. Jure Leskovec, Anand Rajaraman, Jeff Ullm
   (http://chinookdatabase.codeplex.com/downloads/get/557773/). 
 
 * Week 15: Final project presentations.
-* Team Repos are now online. A few examples:
+* Team Repos are now public (https://github.com/ucb-stat-157). A few examples:
   * How to use Spark and Mlib:
    * https://github.com/ucb-stat-157/Amygdala-Oblongata 
    * https://github.com/ucb-stat-157/Old-Machine/blob/master/Spark/ridge_regression.py
