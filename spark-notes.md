@@ -1,8 +1,16 @@
 Spark Notes
 ================
-### Spark
+### Spark locally
 
-These are my notes following the spark tutorial: <br>
+Start a spark python shell. 
+
+```
+./bin/spark-shell
+```
+
+
+###
+Spark tutorial: <br>
 http://www.stat.berkeley.edu/scf/paciorek-spark-2014.html
 
 * Download spark from http://spark.apache.org/
